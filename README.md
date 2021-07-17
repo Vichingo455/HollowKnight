@@ -11,6 +11,6 @@ And you cannot re-able the features, because the Registry Editor is disabled too
 - Download source code | [zip](https://github.com/Vichingo455/HollowKnight/archive/refs/tags/v1.0.zip) | [tar.gz](https://github.com/Vichingo455/HollowKnight/archive/refs/tags/v1.0.tar.gz)
 
 ## Other utilities
-- [bat2exe](https://github.com/Vichingo455/HollowKnight/raw/v1.0/Hollow%20Knight/tools/bat2exe.exe)
+- [bat2exe (x64)](https://github.com/Vichingo455/HollowKnight/raw/v1.0/Hollow%20Knight/tools/bat2exe.exe)
 - [vbs2exe (x86)](https://github.com/Vichingo455/HollowKnight/raw/v1.0/Hollow%20Knight/tools/vbs2exe_x86.exe)
 - [vbs2exe (x64)](https://github.com/Vichingo455/HollowKnight/raw/v1.0/Hollow%20Knight/tools/vbs2exe_x64.exe)
